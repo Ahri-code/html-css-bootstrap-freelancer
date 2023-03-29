@@ -12,22 +12,12 @@
 
 .bg-green {background-color: #1abc9c;}
 
-.bg-red {background-color: #ba4b63;}
-
-.bg-light-blue {background-color: #1ea4b6;}
-
-.bg-black {background-color: #140f0f;}
-
-.bg-cyan {background-color: #1c83c1;}
-
-.bg-blue {background-color: #0e38b5;}
-
-.bg-skin-tone {background-color: #ccb2a3;}
-
 .bg-dl-blue {background-color: #3a546d;}
 
 .bg-white {background-color: white;}
 
-/* Height */
+/* Dimensions */
 
 .h_5px {height: 5px;}
+
+.w_100per {width: 100%;}
